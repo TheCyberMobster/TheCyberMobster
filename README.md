@@ -11,7 +11,7 @@
 
 ## About Me
 
-<p style='font-weight:600; font-size: large;'><b>Ezel Aka [TheCyberMobster]</b></p>
+<p style='font-weight:600; font-size: large;'><b>Ezel [TheCyberMobster]</b></p>
 <p style='font-weight:600; font-size: large;'><b>OSINT | Threat Intel | Child Internet Safety</b></p>
 
 #### ☠️ I collect data and analyze the behaviour/motive(s) of threat actors / I trace, hunt, and turn in people who are involved in child exploitation.
